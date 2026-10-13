@@ -5,8 +5,9 @@ Welcome to the GitHub repository for the Computational Oncology group within the
 
 ## Members
 
-If you are member, be sure to check out the instructions available here: https://computational-oncology-git-instructions.readthedocs.io/en/latest/
+If you are member, be sure to check out the git instructions available here: https://computational-oncology-git-instructions.readthedocs.io/en/latest/
 
+And check instructions on how to use compute here: https://computational-oncology-compute-instructions.readthedocs.io
 
 ## Publications
 
